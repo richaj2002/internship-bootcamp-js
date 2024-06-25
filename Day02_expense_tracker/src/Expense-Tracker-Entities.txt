@@ -1,0 +1,11 @@
+Q : what entities are needen to build expense Tracker?
+Ans : For an expense tracker we need some entities like 
+
+    expenseId : for unique transaction
+    description
+    category 
+    amount
+    modeOfPayment
+    date 
+
+    

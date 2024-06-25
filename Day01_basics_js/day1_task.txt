@@ -1,0 +1,5 @@
+Q.   Why are you Intend to learn JavaScript?
+Ans : Javascript Is a Popular Scripting language,  Using js we can create dynamic and interactive projects or websites.
+It is very intresting and really curious to learn javascript.without js we cannot add functionality to the website. its is helps to handle events and more intresting things.
+
+Basic Information About Javasript....
